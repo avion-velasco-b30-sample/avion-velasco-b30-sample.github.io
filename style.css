@@ -1,0 +1,46 @@
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+#title {
+  text-align: center;
+  letter-spacing: 4px;
+  font-size: 50px;
+  font-weight: bold;
+  padding: 2px;
+}
+
+#img-div {
+  text-align: center;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 50% 20% / 10% 40%;
+}
+
+#img-caption {
+  font-weight: bold;
+  font-size: 45px;
+}
+
+#tribute-details h2, p{
+  text-align: center;
+}
+
+#tribute-info {
+  font-size: 25px;
+}
+
+body {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
